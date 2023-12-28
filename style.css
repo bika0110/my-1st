@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    height: 100vh;
+    font-family: sans-serif;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  .mobile-frame {
+    background-image: url('https://www.kindpng.com/picc/m/478-4787232_iphone-x-frame-svg-hd-png-download.png');
+    height: 565px;
+    width: 530px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border: solid 1px blue;
+    padding: 45px 25px;
+  }
+  
+  .mobile-screen{
+    margin-left:78px;
+    margin-top:-50px;
+  }
+  
+  
+  
+  input {
+    margin: 10px;
+  }
